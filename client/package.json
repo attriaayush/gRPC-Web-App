@@ -1,7 +1,7 @@
 {
     "name": "grpc-calc",
     "version": "0.1.0",
-    "description": "gRPC-Web App",
+    "description": "gRPC-Web App ,̆",
     "devDependencies": {
         "@grpc/proto-loader": "^0.3.0",
         "google-protobuf": "^3.6.1",
